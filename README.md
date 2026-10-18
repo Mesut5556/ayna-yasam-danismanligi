@@ -1,18 +1,7 @@
-# AYNA V4.1 — Hizmet Rehberi ve SSS
+AYNA V4.2 — Ödül ve etkinlik galerisi
 
-Bu paket V4.0 dosyaları üzerine kurulmuştur. Ana sayfanın hero tasarımı, mevcut fiyatlar, fotoğraf ve V3.9 randevu formu korunur.
+V4.1 korunarak ana sayfaya açılır-kapanır ödül galerisi eklendi.
 
-## Kurulum
-1. ZIP dosyasını açın.
-2. İçindeki dosyaları GitHub deposunun ana dizinine yükleyin; aynı isimli dosyalar güncellensin.
-3. Google Search Console doğrulama dosyasını silmeyin. Bu pakette doğrulama dosyası bulunmaması onun silinmesi gerektiği anlamına gelmez.
-4. GitHub Pages yayımlandıktan sonra ana sayfada Bilgi Rehberi ve Sık Sorulan Sorular alanlarını kontrol edin.
-5. sitemap.xml adresi açılıyorsa Search Console durumunu birkaç gün içinde kontrol edin.
+Yükleme: ZIP içindeki DOSYALARI GitHub deponuzun ana dizinine yükleyin. ZIP dosyasını veya klasörünü doğrudan yüklemeyin. Var olan Google doğrulama dosyanızı silmeyin.
 
-## Yeni içerikler
-- Kozmik enerji, spiritüel enerji ve EFT için bağımsız bilgilendirme sayfaları
-- Bioenerji sayfasından bilgi rehberine dönüş bağlantısı
-- Ana sayfada 4 konulu bilgi rehberi, hizmete özel WhatsApp bağlantıları ve 6 sık sorulan soru
-- 7 adresli sitemap.xml
-
-Ödül/sertifika görselleri eklenmedi: Kullanıcı gerçek fotoğraflarını daha sonra paylaşacak. Online ödeme sistemi yoktur.
+3 gerçek etkinlik fotoğrafı: odul-sahne.jpg, gold-master-plaket.jpg, zirve-etkinlik.jpg. Gold Master fotoğrafı orijinaldir, yalnızca kart içinde odak kırpması uygulanır; büyütüldüğünde orijinali görünür.
