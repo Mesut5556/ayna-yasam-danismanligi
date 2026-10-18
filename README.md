@@ -1,23 +1,18 @@
-# AYNA V4.0 — Google Bilgi Rehberleri
+# AYNA V4.1 — Hizmet Rehberi ve SSS
 
-Bu paket V3.9 üzerine hazırlanmıştır. `index.html` ve mevcut CSS/JS dosyaları **değiştirilmemiştir**. Ana sayfa tasarımı ve WhatsApp randevu sistemi aynen korunur.
-
-## Yeni dosyalar
-- `bioenerji-nedir.html`
-- `kisisel-farkindalik-nedir.html`
-- `online-gorusme-nasil-yapilir.html`
-- `bilgi-stil.css`
-- Güncellenmiş `sitemap.xml`
+Bu paket V4.0 dosyaları üzerine kurulmuştur. Ana sayfanın hero tasarımı, mevcut fiyatlar, fotoğraf ve V3.9 randevu formu korunur.
 
 ## Kurulum
-ZIP'i açıp **içindeki dosyaları** GitHub deposunun `main` dalının kök dizinine yükleyin. Mevcut `index.html` ve diğer aynı adlı dosyalar değiştirilebilir; bunların içerikleri V3.9 ile aynıdır. Google doğrulama HTML dosyanızı **silmeden** bırakın.
+1. ZIP dosyasını açın.
+2. İçindeki dosyaları GitHub deposunun ana dizinine yükleyin; aynı isimli dosyalar güncellensin.
+3. Google Search Console doğrulama dosyasını silmeyin. Bu pakette doğrulama dosyası bulunmaması onun silinmesi gerektiği anlamına gelmez.
+4. GitHub Pages yayımlandıktan sonra ana sayfada Bilgi Rehberi ve Sık Sorulan Sorular alanlarını kontrol edin.
+5. sitemap.xml adresi açılıyorsa Search Console durumunu birkaç gün içinde kontrol edin.
 
-## Search Console
-`https://mesut5556.github.io/ayna-yasam-danismanligi/sitemap.xml` adresini kontrol edin. Site haritasını daha önce eklediyseniz tekrar göndermek zorunda değilsiniz; Google güncel dosyayı yeniden tarayabilir. İsterseniz Site Haritaları bölümünde tekrar gönderin.
+## Yeni içerikler
+- Kozmik enerji, spiritüel enerji ve EFT için bağımsız bilgilendirme sayfaları
+- Bioenerji sayfasından bilgi rehberine dönüş bağlantısı
+- Ana sayfada 4 konulu bilgi rehberi, hizmete özel WhatsApp bağlantıları ve 6 sık sorulan soru
+- 7 adresli sitemap.xml
 
-## Bilinçli olarak yapılmayanlar
-- Ana sayfaya yeni menü, kart veya bağlantı eklenmedi (isteğiniz doğrultusunda ana sayfa daha sonra ele alınacak).
-- Ödeme sistemi, form/veritabanı, izleme çerezi eklenmedi.
-- Arama sıralaması veya indeksleme garantisi verilmez.
-
-Yeni içeriklerin kendi aralarında ve ana sayfaya bağlantıları vardır; ana sayfadan içeriklere bağlantı daha sonraki sürüme bırakılmıştır.
+Ödül/sertifika görselleri eklenmedi: Kullanıcı gerçek fotoğraflarını daha sonra paylaşacak. Online ödeme sistemi yoktur.
