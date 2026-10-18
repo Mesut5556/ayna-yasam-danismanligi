@@ -1,1 +1,1 @@
-AYNA V3.2: Tek parça hero. ZIP içindeki tüm dosyaları GitHub depo köküne yükleyin. index.html yeni styles-v32.css dosyasını çağırır. Fiyatlar, WhatsApp ve fotoğraf korunur.
+AYNA V3.3: Yazısız, bütünleşik ışıklı ana sayfa. ZIP içindeki dosyaları GitHub ana dizinine yükleyin. index.html ve styles-v33.css ile ayna-hero-v33.jpg mutlaka birlikte yüklenmelidir. Diğer dosyalar mevcut içeriği korur.
