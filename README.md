@@ -1,1 +1,1 @@
-AYNA V3.5: Tek parça giriş görseli. ZIP içindeki 7 dosyayı GitHub deposunun kök dizinine yükleyin. Masaüstünde onayladığınız görsel; mobilde aynı tasarımın dikey düzenlemesi kullanılır. WhatsApp ve Hizmetleri Keşfet butonlarının görünmez bağlantı alanları aktiftir.
+AYNA V3.6 — ilk başarılı ana sayfa düzenine dönüş. index.html, styles-v36.css, script.js, ayna-kapak.png ve mesut-cancilar.jpg dosyalarını GitHub depo ana dizinine yükleyin. Eski dosyaları silmeniz gerekmez. Fiyat kartları, kurucu fotoğrafı ve WhatsApp korunmuştur.
