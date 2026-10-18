@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mesut5556.github.io/ayna-yasam-danismanligi/sitemap.xml
