@@ -1,10 +1,5 @@
-AYNA V3.7 Google SEO Altyapısı
+AYNA V3.8 — Açılır bölümler
 
-V3.6 görünümü, fiyatlar, görseller ve WhatsApp bağlantıları aynen korunur.
-Değişen: index.html arama meta bilgileri ve yapılandırılmış veri.
-Yeni: robots.txt ve sitemap.xml.
+İlk beğenilen ana sayfa, fotoğraf, fiyatlar, WhatsApp ve Google SEO dosyaları korunur. Hizmetler, fiyatlar, eğitim iş birliği ve eğitim geçmişi açılır-kapanır hale getirildi. Fiyatlar kapalı durumda da görünür.
 
-GitHub main kök dizinine ZIP içindeki 8 dosyayı yükleyin.
-Google Search Console üzerinden URL ön eki olarak https://mesut5556.github.io/ayna-yasam-danismanligi/ ekleyin. HTML etiketi ile doğrulama gerekirse Search Console tarafından verilen gerçek doğrulama kodu ayrıca eklenmelidir. Sitemap: https://mesut5556.github.io/ayna-yasam-danismanligi/sitemap.xml
-
-SEO indeksleme ve sıralama garantisi vermez.
+ZIP içindeki tüm dosyaları GitHub deposunun main köküne yükleyin. Özellikle index.html ve styles-v38.css gereklidir. Google doğrulama HTML dosyanızı GitHub deposundan silmeyin.
