@@ -1,5 +1,9 @@
-# AYNA Yaşam Danışmanlığı V2
+AYNA Yaşam Danışmanlığı V3
 
-Statik GitHub Pages sitesi. WhatsApp iletişim: 0544 748 34 71.
+GitHub deposunun ana dizinine bu klasördeki 6 dosyayı yükleyin. ZIP dosyasını doğrudan yüklemeyin.
 
-Tüm dosyaları deponun ana dizinine yükleyin. `ayna-kapak.png` dosyası `index.html` ile aynı dizinde olmalıdır.
+Kurucu fotoğrafı: mesut-cancilar.jpg
+Fiyatlar: index.html içindeki #fiyatlar bölümünde.
+WhatsApp: +90 544 748 34 71
+
+Randevu sistemi WhatsApp bağlantılarıyla çalışır, otomatik ödeme veya takvim entegrasyonu içermez.
