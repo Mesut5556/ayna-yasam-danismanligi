@@ -1,0 +1,1 @@
+AYNA V4.2.1: Orijinal Gold Master fotoğrafı kırpıldı; sunucu kadraj dışında bırakıldı. Sadece gold-master-plaket.jpg dosyasını GitHub ana dizinine yükleyip aynı adlı dosyayı güncelleyin. index.html değişmez.
