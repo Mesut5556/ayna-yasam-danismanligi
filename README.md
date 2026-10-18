@@ -1,9 +1,5 @@
-AYNA Yaşam Danışmanlığı V3
+AYNA V3.1 - GitHub Pages
 
-GitHub deposunun ana dizinine bu klasördeki 6 dosyayı yükleyin. ZIP dosyasını doğrudan yüklemeyin.
+ZIP içindeki 6 dosyayı main kök dizinine yükleyin. index.html styles-v31.css dosyasını kullanır. Eski styles.css ve diğer dosyalar kalabilir.
 
-Kurucu fotoğrafı: mesut-cancilar.jpg
-Fiyatlar: index.html içindeki #fiyatlar bölümünde.
-WhatsApp: +90 544 748 34 71
-
-Randevu sistemi WhatsApp bağlantılarıyla çalışır, otomatik ödeme veya takvim entegrasyonu içermez.
+Güncellemeler: fiyat kartları, mobil görünüm, kurucu bölümünün boşlukları, CSS önbellek önlemi.
