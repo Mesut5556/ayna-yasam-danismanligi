@@ -1,17 +1,23 @@
-# AYNA V3.9 — WhatsApp Randevu Talebi
+# AYNA V4.0 — Google Bilgi Rehberleri
 
-Bu sürüm AYNA V3.8 üzerine hazırlanmıştır. İlk ana sayfa tasarımı, açılır bölümler, fiyatlar, kurucu fotoğrafı ve SEO korunur.
+Bu paket V3.9 üzerine hazırlanmıştır. `index.html` ve mevcut CSS/JS dosyaları **değiştirilmemiştir**. Ana sayfa tasarımı ve WhatsApp randevu sistemi aynen korunur.
 
-## Yenilikler
-- Fiyatlar bölümünde kapalı başlayan randevu alanı
-- Hizmet, tarih ve saat tercihi
-- Fiyatı gösteren ve WhatsApp'a hazır mesaj gönderen düğme
-- Eğitim başvurusu bağlantısı ayrı kalır
-- Ödeme veya sunucu/veri depolama sistemi yoktur
+## Yeni dosyalar
+- `bioenerji-nedir.html`
+- `kisisel-farkindalik-nedir.html`
+- `online-gorusme-nasil-yapilir.html`
+- `bilgi-stil.css`
+- Güncellenmiş `sitemap.xml`
 
-## GitHub Pages
-ZIP içindeki 10 dosyayı `main` dalının kök dizinine yükleyin. Google doğrulama HTML dosyanızı silmeyin.
+## Kurulum
+ZIP'i açıp **içindeki dosyaları** GitHub deposunun `main` dalının kök dizinine yükleyin. Mevcut `index.html` ve diğer aynı adlı dosyalar değiştirilebilir; bunların içerikleri V3.9 ile aynıdır. Google doğrulama HTML dosyanızı **silmeden** bırakın.
 
-Kontrol: Fiyatlardan birini açıp **Tarih seçerek randevu iste** bağlantısına basın. Form açılmalı ve ilgili hizmet seçilmelidir. Tarih ve saat seçip WhatsApp bağlantısını test edin.
+## Search Console
+`https://mesut5556.github.io/ayna-yasam-danismanligi/sitemap.xml` adresini kontrol edin. Site haritasını daha önce eklediyseniz tekrar göndermek zorunda değilsiniz; Google güncel dosyayı yeniden tarayabilir. İsterseniz Site Haritaları bölümünde tekrar gönderin.
 
-Not: Tarih/saat müsaitlik kontrolü yapılmaz, randevu ancak karşılıklı onayla kesinleşir.
+## Bilinçli olarak yapılmayanlar
+- Ana sayfaya yeni menü, kart veya bağlantı eklenmedi (isteğiniz doğrultusunda ana sayfa daha sonra ele alınacak).
+- Ödeme sistemi, form/veritabanı, izleme çerezi eklenmedi.
+- Arama sıralaması veya indeksleme garantisi verilmez.
+
+Yeni içeriklerin kendi aralarında ve ana sayfaya bağlantıları vardır; ana sayfadan içeriklere bağlantı daha sonraki sürüme bırakılmıştır.
