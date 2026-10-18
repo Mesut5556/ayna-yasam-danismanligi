@@ -1,5 +1,17 @@
-AYNA V3.8 — Açılır bölümler
+# AYNA V3.9 — WhatsApp Randevu Talebi
 
-İlk beğenilen ana sayfa, fotoğraf, fiyatlar, WhatsApp ve Google SEO dosyaları korunur. Hizmetler, fiyatlar, eğitim iş birliği ve eğitim geçmişi açılır-kapanır hale getirildi. Fiyatlar kapalı durumda da görünür.
+Bu sürüm AYNA V3.8 üzerine hazırlanmıştır. İlk ana sayfa tasarımı, açılır bölümler, fiyatlar, kurucu fotoğrafı ve SEO korunur.
 
-ZIP içindeki tüm dosyaları GitHub deposunun main köküne yükleyin. Özellikle index.html ve styles-v38.css gereklidir. Google doğrulama HTML dosyanızı GitHub deposundan silmeyin.
+## Yenilikler
+- Fiyatlar bölümünde kapalı başlayan randevu alanı
+- Hizmet, tarih ve saat tercihi
+- Fiyatı gösteren ve WhatsApp'a hazır mesaj gönderen düğme
+- Eğitim başvurusu bağlantısı ayrı kalır
+- Ödeme veya sunucu/veri depolama sistemi yoktur
+
+## GitHub Pages
+ZIP içindeki 10 dosyayı `main` dalının kök dizinine yükleyin. Google doğrulama HTML dosyanızı silmeyin.
+
+Kontrol: Fiyatlardan birini açıp **Tarih seçerek randevu iste** bağlantısına basın. Form açılmalı ve ilgili hizmet seçilmelidir. Tarih ve saat seçip WhatsApp bağlantısını test edin.
+
+Not: Tarih/saat müsaitlik kontrolü yapılmaz, randevu ancak karşılıklı onayla kesinleşir.
