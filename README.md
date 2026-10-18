@@ -1,1 +1,1 @@
-AYNA V3.3: Yazısız, bütünleşik ışıklı ana sayfa. ZIP içindeki dosyaları GitHub ana dizinine yükleyin. index.html ve styles-v33.css ile ayna-hero-v33.jpg mutlaka birlikte yüklenmelidir. Diğer dosyalar mevcut içeriği korur.
+AYNA V3.4: Gerçek iki sütunlu ana sayfa. ZIP içindeki 7 dosyayı GitHub depo köküne yükleyin. index.html ve styles-v34.css mutlaka güncellenmeli. Fiyatlar, WhatsApp ve fotoğraf korunur.
