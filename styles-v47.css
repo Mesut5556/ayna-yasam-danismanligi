@@ -1,0 +1,18 @@
+/* AYNA V4.7 — complete cohesive premium visual polish, no booking logic changes */
+:root{--ayna-gold:#d9ae63;--ayna-deep:#08172d}
+.ayna-v45-feature{border-radius:22px;border-color:rgba(216,174,99,.55);box-shadow:0 20px 46px rgba(8,18,36,.18)}
+.ayna-v45-feature>img{height:275px;object-fit:cover}
+.ayna-v45-feature-caption{background:radial-gradient(circle at 100% 0%,#1a3558,#09192f 80%)}
+.ayna-v45-cards{grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.ayna-v45-tile{border-radius:17px;box-shadow:0 10px 22px rgba(0,0,0,.12)}
+.ayna-v45-tile img{height:135px;object-fit:cover}
+.ayna-v45-tile span{min-height:66px;padding:12px;font-size:.9rem}
+.ayna-v45-award-preview{background:linear-gradient(120deg,#07182d,#1c3150);box-shadow:0 15px 30px rgba(0,0,0,.15)}
+.ayna-v45-award-preview img{height:175px;object-position:center 25%}
+.ayna-v46-stone-hero,.ayna-v46-stone-card{box-shadow:0 14px 28px rgba(8,18,36,.15)}
+.ayna-v47-hero-band{height:3px;max-width:1100px;margin:0 auto;background:linear-gradient(90deg,transparent,#bd8c43,#f6dba0,#bd8c43,transparent);opacity:.8}
+#numeroloji .ayna-v45-feature>img,#hizmetler .ayna-v45-feature>img{object-position:center}
+.ayna-v42-card img{object-position:center 25%}
+@media(max-width:1000px){.ayna-v45-cards{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:760px){.ayna-v45-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.ayna-v45-feature>img{height:210px}.ayna-v45-award-preview img{height:135px}}
+@media(max-width:410px){.ayna-v45-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.ayna-v45-tile img{height:110px}.ayna-v45-tile span{font-size:.8rem;padding:10px;min-height:62px}}
