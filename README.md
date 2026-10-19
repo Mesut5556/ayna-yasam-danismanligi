@@ -1,5 +1,9 @@
-AYNA V4.4 — Numeroloji Danışmanlığı
+AYNA V4.5 — Görsel Zenginleştirme
 
-V4.3 üzerine eklenenler: menüde Numeroloji, dört açılır-kapanır hizmet kartı, WhatsApp bilgi ve talep bağlantıları, etik ve gizlilik açıklaması. Mevcut site düzeni, doğal taş bölümü, fiyatlar ve randevu sistemi korunur. Sertifika adı/kurumu doğrulanmadığı için sitede sertifika iddiası eklenmedi.
+Mevcut V4.4 ana sayfa, fiyatlar, WhatsApp bağlantıları, randevu formu ve gerçek ödül fotoğrafları korunmuştur.
 
-Yükleme: ZIP dosyasını çıkarın, içindeki dosyaları GitHub deponuzun kök dizinine yükleyin; Google doğrulama dosyasını silmeyin.
+Yeni dosyalar: styles-v45.css, gorsel-bioenerji.svg, gorsel-dogal-tas.svg, gorsel-numeroloji.svg, gorsel-farkindalik.svg.
+
+GitHub: ZIP içindeki dosyaları repo ana klasörüne yükleyin. ZIP dosyasının kendisini yüklemeyin. Mevcut styles-v36.css, styles-v39.css, styles-v41.css, script-v39.js, bilgi-stil.css ve Google doğrulama dosyasını silmeyin.
+
+Görseller dekoratif çizimdir; tedavi veya gerçek danışan sonucu göstermez.
