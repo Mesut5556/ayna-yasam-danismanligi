@@ -1,7 +1,5 @@
-AYNA V4.3 - Doğal Taş Danışmanlığı ve Sipariş
+AYNA V4.4 — Numeroloji Danışmanlığı
 
-Mevcut V4.2 tasarımına doğal taş danışmanlığı ve kişiye özel ürün talebi eklendi. Gold Master fotoğrafının düzeltilmiş sürümü dahil edildi.
+V4.3 üzerine eklenenler: menüde Numeroloji, dört açılır-kapanır hizmet kartı, WhatsApp bilgi ve talep bağlantıları, etik ve gizlilik açıklaması. Mevcut site düzeni, doğal taş bölümü, fiyatlar ve randevu sistemi korunur. Sertifika adı/kurumu doğrulanmadığı için sitede sertifika iddiası eklenmedi.
 
-GitHub: ZIP dosyasını değil, ZIP içindeki dosyaları deponun ana dizinine yükleyin. google6e72420f263e8ad9.html doğrulama dosyasını GitHub’dan silmeyin.
-
-Doğal taş ürünleri için fiyat, stok, teslimat ve iade bilgilerini müşteriye sipariş öncesinde açıklayın. Mesafeli satış ve tüketici mevzuatından doğan yükümlülükleri ayrıca değerlendirin.
+Yükleme: ZIP dosyasını çıkarın, içindeki dosyaları GitHub deponuzun kök dizinine yükleyin; Google doğrulama dosyasını silmeyin.
