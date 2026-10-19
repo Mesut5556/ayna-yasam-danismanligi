@@ -1,7 +1,7 @@
-AYNA V4.2 — Ödül ve etkinlik galerisi
+AYNA V4.3 - Doğal Taş Danışmanlığı ve Sipariş
 
-V4.1 korunarak ana sayfaya açılır-kapanır ödül galerisi eklendi.
+Mevcut V4.2 tasarımına doğal taş danışmanlığı ve kişiye özel ürün talebi eklendi. Gold Master fotoğrafının düzeltilmiş sürümü dahil edildi.
 
-Yükleme: ZIP içindeki DOSYALARI GitHub deponuzun ana dizinine yükleyin. ZIP dosyasını veya klasörünü doğrudan yüklemeyin. Var olan Google doğrulama dosyanızı silmeyin.
+GitHub: ZIP dosyasını değil, ZIP içindeki dosyaları deponun ana dizinine yükleyin. google6e72420f263e8ad9.html doğrulama dosyasını GitHub’dan silmeyin.
 
-3 gerçek etkinlik fotoğrafı: odul-sahne.jpg, gold-master-plaket.jpg, zirve-etkinlik.jpg. Gold Master fotoğrafı orijinaldir, yalnızca kart içinde odak kırpması uygulanır; büyütüldüğünde orijinali görünür.
+Doğal taş ürünleri için fiyat, stok, teslimat ve iade bilgilerini müşteriye sipariş öncesinde açıklayın. Mesafeli satış ve tüketici mevzuatından doğan yükümlülükleri ayrıca değerlendirin.
